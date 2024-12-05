@@ -1,5 +1,5 @@
 # railplus_P4_recommendations
-# Mon Projet de Recommandations
+
 Ce projet utilise HTML, CSS, et JavaScript pour afficher des recommandations en fonction des critères fournis par l'utilisateur.
 
 ## Utilisation

@@ -55,7 +55,7 @@ function updateTable() {
     const qualite = parseInt(document.getElementById("qualiteSlider").value, 10);
     const bruit = parseInt(document.getElementById("bruitSlider").value, 10);
 
-    fetch("recommandations.json")
+    fetch("https://karimfischer.github.io/railplus_P4_recommendations/recommandations.json")
         .then(response => response.json())
         .then(data => {
             const results = data.filter(item =>

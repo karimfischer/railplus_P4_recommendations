@@ -5,7 +5,7 @@ Ce projet utilise HTML, CSS, et JavaScript pour afficher des recommandations en 
 ## Utilisation
 1. Clonez ce dépôt.
 2. Lancez un serveur local pour tester le projet (par exemple, `python -m http.server`).
-3. Ouvrez le fichier `index.html` dans votre navigateur.
+3. Ouvrez le fichier `recommandations.html` dans votre navigateur.
 
 ## Structure
 - `recommandations.html` : Structure HTML principale.

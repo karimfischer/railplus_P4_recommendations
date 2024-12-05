@@ -1,0 +1,891 @@
+[
+    {
+"rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> Aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    },
+    
+    
+    {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> Aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    },
+     {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },  
+         {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },  
+         {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+           {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+             {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    }, 
+             {
+        "rayon_min": 0,
+        "rayon_max": 80,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    },
+        {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": "Pour les rayons supérieurs (dès 100 m), préférer les traverses en béton avec semelles."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": "Pour les rayons supérieurs (dès 100 m), préférer les traverses en béton avec semelles."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "- <i>Infra.</i>: limite moyen/mauvais encore à définir. <br> - Pour les rayons supérieurs (dès 100 m), préférer les traverses en béton avec semelles."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": "Pour les rayons supérieurs (dès 100 m), préférer les traverses en béton avec semelles."
+            }
+        ]
+    },
+    
+    
+    {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "- <i>Infra.</i>: limite moyen/mauvais encore à définir. <br> - Pour les rayons supérieurs (dès 100 m), préférer les traverses en béton avec semelles."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton (attachées) avec semelle <b>OU</b> Acier ",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": "Pour les rayons supérieurs (dès 100 m), préférer les traverses en béton avec semelles."
+            }
+        ]
+    },
+     {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },  
+         {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },  
+         {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+           {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+             {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    }, 
+             {
+        "rayon_min": 81,
+        "rayon_max": 120,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    },
+        {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": "" 
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    },
+    
+    
+    {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    },
+     {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },  
+         {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": ""
+            }
+        ]
+    },  
+         {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+           {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "<i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+             {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Molle <br> (85 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    }, 
+             {
+        "rayon_min": 121,
+        "rayon_max": 300,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": ""
+            }
+        ]
+    },
+            {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?" 
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?"
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "- <i>Nuance d'acier</i>: stratégie unique? <br> - <i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?"
+            }
+        ]
+    },
+    
+    
+    {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "- <i>Nuance d'acier</i>: stratégie unique? <br> - <i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },
+    
+    {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 0,
+        "charge_max": 14000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?"
+            }
+        ]
+    },
+     {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?"
+            }
+        ]
+    },  
+         {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 0,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?"
+            }
+        ]
+    },  
+         {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "- <i>Nuance d'acier</i>: stratégie unique? <br> - <i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+           {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 1,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "PSS / AC Rail <b>OU</b> aucune mesure",
+                "message": "- <i>Nuance d'acier</i>: stratégie unique? <br> - <i>Infra.</i>: limite moyen/mauvais encore à définir."
+            }
+        ]
+    },  
+             {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 0,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?"
+            }
+        ]
+    }, 
+             {
+        "rayon_min": 301,
+        "rayon_max": 600,
+        "charge_min": 15000,
+        "charge_max": 30000, 
+        "qualite": 2,
+        "bruit": 1,
+        "recommandations": [
+            {
+                "profil_rail": "46E1",
+                "nuance_acier": "350HT/400HT",
+                "traverse": "Béton avec semelle",
+                "semelle": "Moyennement rigide <br> (200 kN/mm)",
+                "mesure": "Aucune mesure",
+                "message": "<i>Nuance d'acier</i>: stratégie unique?"
+            }
+        ]
+    }
+]
+

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Recommandations</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="container_global_slider">
+                <h1 style="margin-bottom: 30px">Choix des critères et recommandations</h1>
+                <div class="titre_a_cote">
+                    <div class="title">Rayon de courbe [m]:</div>
+                    <div class="slider-container">
+                        <div class="slider">
+                            <input type="range" id="rayonSlider" min="0" max="600" step="1" value="0" />
+                            <span class="slider-value" id="rayonValue"></span>
+                            <div class="graduations" id="rayonSliderGraduations"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="titre_a_cote">
+                    <div class="title">Charge de trafic [Bt/d]:</div>
+                    <div class="slider-container">
+                        <div class="slider">
+                            <input type="range" id="traficSlider" min="0" max="30000" step="1000" />
+                            <span class="slider-value" id="traficValue"></span>
+                            <div class="graduations" id="traficSliderGraduations"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="titre_a_cote">
+                    <div class="title">Qualité de l'infrastructure:</div>
+                    <div class="slider-container">
+                        <div class="slider">
+                            <input type="range" id="qualiteSlider" min="0" max="2" step="1" />
+                            <span class="slider-value" id="qualiteValue"></span>
+                            <div class="graduations" id="qualiteSliderGraduations"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="titre_a_cote">
+                    <div class="title">Sensibilité au bruit:</div>
+                    <div class="slider-container">
+                        <div class="slider">
+                            <input type="range" id="bruitSlider" min="0" max="1" step="1" />
+                            <span class="slider-value" id="bruitValue"></span>
+                            <div class="graduations" id="bruitSliderGraduations"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            <table id="recommendationsTable" class="table1">
+                <tbody>
+                    <tr>
+                        <td colspan="3">Aucune recommandation trouvée pour ces critères.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <script src="script1.js"></script>
+    </body>
+</html>

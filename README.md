@@ -8,8 +8,8 @@ Ce projet utilise HTML, CSS, et JavaScript pour afficher des recommandations en 
 3. Ouvrez le fichier `index.html` dans votre navigateur.
 
 ## Structure
-- `index.html` : Structure HTML principale.
+- `recommandations.html` : Structure HTML principale.
 - `style.css` : Styles pour l'interface utilisateur.
-- `script.js` : Logique JavaScript pour l'interaction.
-- `data.json` : Données de recommandations.
+- `script1.js` : Logique JavaScript pour l'interaction.
+- `recommandations.json` : Données de recommandations.
 

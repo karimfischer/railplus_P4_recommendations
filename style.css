@@ -2,7 +2,7 @@ body{
     width: 60%;
     margin: auto; 
     background-image: url('Visual_RAILplus_Druck1.webp');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
